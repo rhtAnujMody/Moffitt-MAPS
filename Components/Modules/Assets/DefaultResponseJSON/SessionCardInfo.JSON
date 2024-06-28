@@ -1,0 +1,26 @@
+[
+    {
+      "session_id": "session_1",
+      "session_img": "http://image.com",
+      "session_name": "Welcome",
+      "session_time": "",
+      "session_desc": "",
+      "session_card_content_complete": "2"
+    },
+    {
+      "session_id": "session_2",
+      "session_img": "http://image.com",
+      "session_name": "Session 2",
+      "session_time": "",
+      "session_desc": "",
+      "session_card_content_complete": "2"
+    },
+    {
+      "session_id": "session_3",
+      "session_img": "",
+      "session_name": "Not Ready Yet",
+      "session_time": "",
+      "session_desc": "",
+      "session_card_content_complete": "0"
+    }
+  ]

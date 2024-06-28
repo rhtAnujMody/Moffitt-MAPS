@@ -1,0 +1,44 @@
+[
+    {
+      "badgeid": "1",
+      "title": "Session 1 Completed",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "2",
+      "title": "Session 2 Completed",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "3",
+      "title": "Session 3 Completed",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "4",
+      "title": "Quit Date Set",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "5",
+      "title": "Wellness Goal Added",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "6",
+      "title": "Wellness Viewed",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    },
+    {
+      "badgeid": "7",
+      "title": "Sessions Complete",
+      "image": "URL:http://image.com",
+      "badge_configuration_complete": "2"
+    }
+  ]

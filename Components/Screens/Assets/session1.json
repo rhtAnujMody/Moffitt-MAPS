@@ -1,0 +1,38 @@
+[
+    {
+      "sessionCard_id": "1",
+      "cardType": "Video",
+      "description": "In this session, we’ll work to find new strategies and ideas that may help you to achieve your goals. When you’re ready, play the video and then tap “Next” when you’re finished.",
+      "videoUrl": "https://cdn.coverr.co/videos/coverr-stream-next-to-the-road-4482/1080p.mp4",
+      "question": "",
+      "options": "",
+      "questionType":"",
+      "ifCond":"",
+      "cardTitle":"Session 1 | Getting Started"
+    },
+    {
+        "sessionCard_id": "1",
+        "cardType": "Question",
+        "description": "Choose an answer to the question below.",
+        "videoUrl": "",
+        "question": "When do you find that you most want a cigarette?",
+        "options": "",
+        "questionType":"Radio",
+        "ifCond":"",
+        "cardTitle":"Session 1 | Getting Started"
+      },    
+      {
+        "sessionCard_id": "1",
+        "cardType": "Video",
+        "description": "In this session, we’ll work to find new strategies and ideas that may help you to achieve your goals. When you’re ready, play the video and then tap “Next” when you’re finished.",
+        "videoUrl": "https://cdn.coverr.co/videos/coverr-stream-next-to-the-road-4482/1080p.mp4",
+        "question": "",
+        "options": "",
+        "questionType":"",
+        "ifCond":"",
+        "cardTitle":"Session 1 | Getting Started"
+      },
+      {
+        
+      }
+  ]
